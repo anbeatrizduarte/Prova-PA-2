@@ -1,0 +1,6 @@
+1 NPrimo
+2 Primo
+3 Primo
+4 NPrimo
+5 Primo
+6 NPrimo
